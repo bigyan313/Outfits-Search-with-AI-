@@ -12,7 +12,7 @@ const AboutUs: React.FC = () => {
     },
     {
       icon: Code2,
-      name: "React + TypeScript (V6)",
+      name: "React + TypeScript",
       description: "Modern frontend framework for building responsive user interfaces"
     },
     {

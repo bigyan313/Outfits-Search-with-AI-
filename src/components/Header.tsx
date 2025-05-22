@@ -69,7 +69,7 @@ const Header: React.FC<HeaderProps> = ({ showAuthModal, onCloseAuthModal, weathe
             <Link to="/" className="flex items-center space-x-1">
               <span className="text-4xl font-medium tracking-tight text-black">A</span>
               <span className="text-[9px] font-light tracking-[0.2em] text-black">DHIKAR</span>
-              <span className="text-4xl font-medium tracking-tight text-black">I  bolt console</span>
+              <span className="text-4xl font-medium tracking-tight text-black">I  v9</span>
             </Link>
             {weather && <WeatherCard weather={weather} />}
           </div>
